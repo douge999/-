@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>不同国家各星级米其林餐厅数量 —— 堆叠面积图 (D3.js)</title>
+  <!-- 引入 D3 v7 -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #555;
+      stroke-width: 1px;
+    }
+    .axis text {
+      font-size: 12px;
+      fill: #333;
+    }
+    .area {
+      fill-opacity: 0.7;
+    }
+    .legend {
+      font-size: 12px;
+    }
+    .legend rect {
+      stroke: #888;
+      stroke-width: 1px;
+    }
+  </style>
+</head>
+<body>
+  <!-- SVG 容器 -->
+  <svg id="chart"></svg>
+
+  <script>
+    //  设置画布尺寸和边距 
+    const margin = { top: 40, right: 120, bottom: 120, left: 60 };
+    const svgWidth = 960;
+    const svgHeight = 600;
+    const width = svgWidth - margin.left - margin.right;
+    const height = svgHeight - margin.top - margin.bottom;
+
+    // 选中 SVG 并设置宽高
+    const svg = d3
+      .select("#chart")
+      .attr("width", svgWidth)
+      .attr("height", svgHeight);
+
+    // 创建一个 g 作为绘图区
+    const g = svg
+      .append("g")
+      .attr("transform", `translate(${margin.left},${margin.top})`);
+
+    //  加载 CSV 数据 
+    d3.csv("data//restaurants_clean.csv").then((data) => {
+      //  将 stars 字段转换为字符串
+      data.forEach((d) => {
+        d.stars = d.stars.trim(); // 保证没有前后空格
+        d.country = d.country.trim();
+      });
+      data = data.filter(
+        (d) => d.country !== "" && d.stars !== "" && (d.stars === "1" || d.stars === "2" || d.stars === "3")
+      );
+
+      //  数据聚合：按 country 和 stars 统计数量 
+      // 使用 d3.rollup 来统计每个国家每个星级的餐厅数量
+      const nestedMap = d3.rollup(
+        data,
+        (v) => v.length,
+        (d) => d.country,
+        (d) => d.stars
+      );
+
+      //取出所有国家（country）列表，并按照餐厅总数从小到大排序
+      const countryTotalMap = new Map();
+      nestedMap.forEach((starMap, country) => {
+        let total = 0;
+        starMap.forEach((cnt) => (total += cnt));
+        countryTotalMap.set(country, total);
+      });
+      const countries = Array.from(countryTotalMap.keys()).sort(
+        (a, b) => countryTotalMap.get(a) - countryTotalMap.get(b)
+      );
+
+      // 定义所有可能的星级键
+      const starKeys = ["1", "2", "3"];
+
+      // 将 Map 转换为堆叠布局需要的数组形式
+
+      const dataset = countries.map((country) => {
+        const row = { country: country };
+        starKeys.forEach((star) => {
+          const cnt = nestedMap.get(country)?.get(star) || 0;
+          row[star] = cnt;
+        });
+        return row;
+      });
+
+      //  构造堆叠布局-
+      const stackGenerator = d3.stack().keys(starKeys);
+      const series = stackGenerator(dataset);
+      // series 是一个数组，长度等于 starKeys.length，
+      // 每个 series[i] 中包含 n 个点，对应 dataset 中的每个 country，值为 [y0, y1]
+
+      //  构造比例尺
+      //  X 轴：使用 scalePoint 来对国家做等距分布
+      const xScale = d3
+        .scalePoint()
+        .domain(countries)
+        .range([0, width])
+        .padding(0.5);
+
+      //  Y 轴：从 0 到 各国家餐厅总数的最大值
+      const maxTotal = d3.max(dataset, (d) =>
+        starKeys.reduce((sum, k) => sum + d[k], 0)
+      );
+      const yScale = d3
+        .scaleLinear()
+        .domain([0, maxTotal])
+        .range([height, 0]);
+
+      //  颜色比例尺：为每个星级分配一种颜色
+      const colorScale = d3
+        .scaleOrdinal()
+        .domain(starKeys)
+        .range(["#FFD54F", "#90A4AE", "#D84315"]); 
+
+      //  构造 area 生成器
+      const areaGenerator = d3
+        .area()
+        .x((d) => xScale(d.data.country))
+        .y0((d) => yScale(d[0]))
+        .y1((d) => yScale(d[1]))
+        .curve(d3.curveMonotoneX); // 使用平滑曲线
+
+      //  绘制堆叠面积 
+      const layers = g
+        .selectAll(".layer")
+        .data(series)
+        .enter()
+        .append("path")
+        .attr("class", "layer")
+        .attr("d", (d) => areaGenerator(d))
+        .attr("fill", (d) => colorScale(d.key))
+        .attr("stroke", "#333")
+        .attr("stroke-width", 0.5);
+
+      //  绘制坐标轴
+      //  X 轴
+      const xAxis = d3.axisBottom(xScale);
+      g.append("g")
+        .attr("class", "axis x-axis")
+        .attr("transform", `translate(0, ${height})`)
+        .call(xAxis)
+        .selectAll("text")
+        .attr("text-anchor", "end")
+        .attr("transform", "rotate(-45)")
+        .attr("dx", "-0.6em")
+        .attr("dy", "0.1em");
+
+      //Y 轴
+      const yAxis = d3.axisLeft(yScale).ticks(6);
+      g.append("g").attr("class", "axis y-axis").call(yAxis);
+
+      //  坐标轴标题
+      // X 轴标题
+      g.append("text")
+        .attr("transform", `translate(${width / 2}, ${height + 80})`)
+        .attr("text-anchor", "middle")
+        .attr("font-size", "14px")
+        .text("Country");
+
+      // Y 轴标题
+      g.append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("y", -50)
+        .attr("x", -height / 2)
+        .attr("text-anchor", "middle")
+        .attr("font-size", "14px")
+        .text("Number of Restaurants");
+
+      //  添加图例 
+      const legend = svg
+        .append("g")
+        .attr("class", "legend")
+        .attr(
+          "transform",
+          `translate(${width + margin.left + 20}, ${margin.top})`
+        );
+
+      starKeys.forEach((star, i) => {
+        const legendRow = legend
+          .append("g")
+          .attr("transform", `translate(0, ${i * 25})`);
+
+        legendRow
+          .append("rect")
+          .attr("width", 18)
+          .attr("height", 18)
+          .attr("fill", colorScale(star));
+
+        legendRow
+          .append("text")
+          .attr("x", 24)
+          .attr("y", 13)
+          .text(`${star} 星`)
+          .attr("fill", "#333");
+      });
+
+      svg
+        .append("text")
+        .attr("x", margin.left + width / 2)
+        .attr("y", margin.top / 2)
+        .attr("text-anchor", "middle")
+        .attr("font-size", "18px")
+        .attr("font-weight", "bold")
+        .text("不同国家各星级米其林餐厅数量（堆叠面积图）");
+    });
+  </script>
+</body>
+</html>

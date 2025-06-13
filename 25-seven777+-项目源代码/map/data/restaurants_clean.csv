@@ -1,0 +1,336 @@
+name,stars,price_level,cuisine,city,country,year,lat,lng,address
+Kilian Stuba,1,5.0,Creative,Kleinwalsertal,Austria,2019,47.34858,10.17114,https://guide.michelin.com/at/en/vorarlberg/kleinwalsertal/restaurant/kilian-stuba
+Pfefferschiff,1,5.0,Classic cuisine,Hallwang,Austria,2019,47.83787,13.07917,https://guide.michelin.com/at/en/salzburg-region/hallwang/restaurant/pfefferschiff
+Esszimmer,1,5.0,Creative,Salzburg,Austria,2019,47.80685,13.03409,https://guide.michelin.com/at/en/salzburg-region/salzburg/restaurant/esszimmer
+Carpe Diem,1,5.0,Market cuisine,Salzburg,Austria,2019,47.80001,13.04006,https://guide.michelin.com/at/en/salzburg-region/salzburg/restaurant/carpe-diem
+Edvard,1,4.0,Modern cuisine,Wien,Austria,2019,48.216503,16.36852,https://guide.michelin.com/at/en/vienna/wien/restaurant/edvard
+Das Loft,1,5.0,Modern cuisine,Wien,Austria,2019,48.21272,16.37931,https://guide.michelin.com/at/en/vienna/wien/restaurant/das-loft
+Pramerl & the Wolf,1,5.0,Creative,Wien,Austria,2019,48.20945,16.37174,https://guide.michelin.com/at/en/vienna/wien/restaurant/pramerl-the-wolf
+Walter Bauer,1,5.0,Classic cuisine,Wien,Austria,2019,48.20923,16.37672,https://guide.michelin.com/at/en/vienna/wien/restaurant/walter-bauer
+SHIKI,1,5.0,Japanese,Wien,Austria,2019,48.204067,16.37098,https://guide.michelin.com/at/en/vienna/wien/restaurant/shiki
+Tian,1,5.0,Vegetarian,Wien,Austria,2019,48.20513,16.37456,https://guide.michelin.com/at/en/vienna/wien/restaurant/tian
+aend,1,5.0,Modern cuisine,Wien,Austria,2019,48.18957,16.34115,https://guide.michelin.com/at/en/vienna/wien/restaurant/aend
+Le Ciel by Toni Mörwald,1,5.0,Classic cuisine,Wien,Austria,2019,48.20209,16.37156,https://guide.michelin.com/at/en/vienna/wien/restaurant/le-ciel-by-toni-morwald
+Chez TJ,1,4.0,Contemporary,South San Francisco,California,2019,37.39468,-122.08044,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/chez-tj
+Protégé,1,3.0,Contemporary,South San Francisco,California,2019,37.427853,-122.14362,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/protege
+Madera,1,3.0,Contemporary,San Francisco,California,2019,37.42014,-122.21151,https://guide.michelin.com/us/en/california/san-francisco/restaurant/madera
+The Village Pub,1,3.0,Contemporary,San Francisco,California,2019,37.42897,-122.25178,https://guide.michelin.com/us/en/california/san-francisco/restaurant/the-village-pub
+Plumed Horse,1,4.0,Contemporary,South San Francisco,California,2019,37.25648,-122.03537,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/plumed-horse
+Wakuriya,1,4.0,Japanese,San Francisco,California,2019,37.52114,-122.3366,https://guide.michelin.com/us/en/california/san-francisco/restaurant/wakuriya
+Sushi Yoshizumi,1,4.0,Japanese,San Francisco,California,2019,37.565075,-122.3211,https://guide.michelin.com/us/en/california/san-francisco/restaurant/sushi-yoshizumi
+Rasa,1,2.0,Indian,San Francisco,California,2019,37.577522,-122.345985,https://guide.michelin.com/us/en/california/san-francisco/restaurant/rasa
+Maum,1,4.0,Korean,South San Francisco,California,2019,37.72669,-122.414215,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/maum
+Al's Place,1,2.0,Californian,San Francisco,California,2019,37.748924,-122.42013,https://guide.michelin.com/us/en/california/san-francisco/restaurant/al-s-place
+Aster,1,3.0,Californian,San Francisco,California,2019,37.755054,-122.423134,https://guide.michelin.com/us/en/california/san-francisco/restaurant/aster
+Omakase,1,4.0,Japanese,San Francisco,California,2019,37.77077,-122.40298,https://guide.michelin.com/us/en/california/san-francisco/restaurant/omakase
+Commonwealth,1,2.0,Contemporary,San Francisco,California,2019,37.761395,-122.41946,https://guide.michelin.com/us/en/california/san-francisco/restaurant/commonwealth
+Luce,1,3.0,Contemporary,San Francisco,California,2019,37.78194,-122.40498,https://guide.michelin.com/us/en/california/san-francisco/restaurant/luce
+Birdsong,1,4.0,American,San Francisco,California,2019,37.779495,-122.41048,https://guide.michelin.com/us/en/california/san-francisco/restaurant/birdsong
+In Situ,1,4.0,International,San Francisco,California,2019,37.785633,-122.40113,https://guide.michelin.com/us/en/california/san-francisco/restaurant/in-situ
+Mourad,1,3.0,Moroccan,San Francisco,California,2019,37.78695,-122.39987,https://guide.michelin.com/us/en/california/san-francisco/restaurant/mourad
+Hashiri,1,4.0,Japanese,San Francisco,California,2019,37.783062,-122.40754,https://guide.michelin.com/us/en/california/san-francisco/restaurant/hashiri
+Angler,1,4.0,Contemporary,San Francisco,California,2019,37.793167,-122.39213,https://guide.michelin.com/us/en/california/san-francisco/restaurant/angler
+Rich Table,1,3.0,Contemporary,San Francisco,California,2019,37.774914,-122.42271,https://guide.michelin.com/us/en/california/san-francisco/restaurant/rich-table
+Kin Khao,1,2.0,Thai,San Francisco,California,2019,37.785267,-122.40951,https://guide.michelin.com/us/en/california/san-francisco/restaurant/kin-khao
+Michael Mina,1,4.0,Contemporary,San Francisco,California,2019,37.79349,-122.399574,https://guide.michelin.com/us/en/california/san-francisco/restaurant/michael-mina
+Sons & Daughters,1,4.0,Contemporary,San Francisco,California,2019,37.79037,-122.40917,https://guide.michelin.com/us/en/california/san-francisco/restaurant/sons-daughters
+Mister Jiu's,1,3.0,Chinese,San Francisco,California,2019,37.79371,-122.406654,https://guide.michelin.com/us/en/california/san-francisco/restaurant/mister-jius
+Nico,1,3.0,Contemporary,San Francisco,California,2019,37.795803,-122.40333,https://guide.michelin.com/us/en/california/san-francisco/restaurant/nico
+jū-ni,1,4.0,Japanese,San Francisco,California,2019,37.77672,-122.43886,https://guide.michelin.com/us/en/california/san-francisco/restaurant/ju-ni
+Keiko à Nob Hill,1,4.0,Fusion,San Francisco,California,2019,37.793106,-122.41445,https://guide.michelin.com/us/en/california/san-francisco/restaurant/keiko-a-nob-hill
+The Progress,1,3.0,Californian,San Francisco,California,2019,37.78371,-122.43282,https://guide.michelin.com/us/en/california/san-francisco/restaurant/the-progress
+State Bird Provisions,1,2.0,American,San Francisco,California,2019,37.783737,-122.43283,https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions
+Octavia,1,3.0,Californian,San Francisco,California,2019,37.787857,-122.42709,https://guide.michelin.com/us/en/california/san-francisco/restaurant/octavia
+SPQR,1,3.0,Italian,San Francisco,California,2019,37.78732,-122.43375,https://guide.michelin.com/us/en/california/san-francisco/restaurant/spqr
+Lord Stanley,1,3.0,Californian,San Francisco,California,2019,37.79592,-122.42208,https://guide.michelin.com/us/en/california/san-francisco/restaurant/lord-stanley
+Kinjo,1,4.0,Japanese,San Francisco,California,2019,37.79699,-122.422005,https://guide.michelin.com/us/en/california/san-francisco/restaurant/kinjo
+Sorrel,1,3.0,Californian,San Francisco,California,2019,37.788334,-122.44614,https://guide.michelin.com/us/en/california/san-francisco/restaurant/sorrel
+Gary Danko,1,4.0,Contemporary,San Francisco,California,2019,37.80599,-122.42066,https://guide.michelin.com/us/en/california/san-francisco/restaurant/gary-danko
+Bar Crenn,1,3.0,French,San Francisco,California,2019,37.798435,-122.43581,https://guide.michelin.com/us/en/california/san-francisco/restaurant/bar-crenn
+Spruce,1,3.0,Californian,San Francisco,California,2019,37.78772,-122.45264,https://guide.michelin.com/us/en/california/san-francisco/restaurant/spruce
+Wako,1,4.0,Japanese,San Francisco,California,2019,37.783035,-122.461525,https://guide.michelin.com/us/en/california/san-francisco/restaurant/wako
+Madcap,1,4.0,Contemporary,San Francisco,California,2019,37.974712,-122.56168,https://guide.michelin.com/us/en/california/san-francisco/restaurant/madcap
+Aubergine,1,4.0,Contemporary,Monterey,California,2019,36.55406,-121.924355,https://guide.michelin.com/us/en/california/monterey/restaurant/aubergine
+Kenzo,1,4.0,Japanese,San Francisco,California,2019,38.29924,-122.28928,https://guide.michelin.com/us/en/california/san-francisco/restaurant/kenzo
+La Toque,1,4.0,Contemporary,San Francisco,California,2019,38.30351,-122.28349,https://guide.michelin.com/us/en/california/san-francisco/restaurant/la-toque
+Bouchon,1,3.0,French,San Francisco,California,2019,38.40258,-122.3619,https://guide.michelin.com/us/en/california/san-francisco/restaurant/bouchon
+Auberge du Soleil,1,4.0,Californian,San Francisco,California,2019,38.49199,-122.40534,https://guide.michelin.com/us/en/california/san-francisco/restaurant/auberge-du-soleil
+Farmhouse Inn & Restaurant,1,4.0,Californian,San Francisco,California,2019,38.49039,-122.8835,https://guide.michelin.com/us/en/california/san-francisco/restaurant/farmhouse-inn-restaurant
+The Kitchen,1,4.0,Contemporary,Sacramento,California,2019,38.58894,-121.41424,https://guide.michelin.com/us/en/california/us-sacramento/restaurant/the-kitchen559371
+Madrona Manor,1,4.0,Contemporary,San Francisco,California,2019,38.60428,-122.88647,https://guide.michelin.com/us/en/california/san-francisco/restaurant/madrona-manor
+Shin Sushi,1,3.0,Japanese,Los Angeles,California,2019,34.15784,-118.49415,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/shin-sushi
+Rustic Canyon,1,3.0,Californian,Los Angeles,California,2019,34.024952,-118.49118,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/rustic-canyon
+Dialogue,1,4.0,Contemporary,Los Angeles,California,2019,34.01679,-118.49748,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/dialogue
+Kato,1,3.0,Asian,Los Angeles,California,2019,34.041683,-118.460915,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/kato
+CUT,1,4.0,Steakhouse,Los Angeles,California,2019,34.067036,-118.401024,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/cut559418
+Nozawa Bar,1,4.0,Japanese,Los Angeles,California,2019,34.0683,-118.39849,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/nozawa-bar
+Shunji,1,4.0,Japanese,Los Angeles,California,2019,34.028496,-118.45195,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/shunji
+Maude,1,4.0,Contemporary,Los Angeles,California,2019,34.064346,-118.39904,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/maude
+Mori Sushi,1,4.0,Japanese,Los Angeles,California,2019,34.033398,-118.44229,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/mori-sushi
+Trois Mec,1,4.0,Contemporary,Los Angeles,California,2019,34.084255,-118.33851,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/trois-mec
+Osteria Mozza,1,3.0,Italian,Los Angeles,California,2019,34.08342,-118.338974,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/osteria-mozza
+Kali,1,3.0,Californian,Los Angeles,California,2019,34.083443,-118.32455,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/kali
+Le Comptoir,1,4.0,Californian,Los Angeles,California,2019,34.06354,-118.30057,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/le-comptoir
+Q Sushi,1,4.0,Japanese,Los Angeles,California,2019,34.046883,-118.255844,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/q-sushi
+Shibumi,1,4.0,Japanese,Los Angeles,California,2019,34.044155,-118.256134,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/shibumi559644
+Hayato,1,4.0,Japanese,Los Angeles,California,2019,34.03311,-118.24265,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/hayato
+Bistro Na's,1,2.0,Chinese,Los Angeles,California,2019,34.104412,-118.07159,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/bistro-na-s
+Orsa & Winston,1,4.0,Fusion,Los Angeles,California,2019,33.92145,-118.275406,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/orsa-winston
+Taco María,1,3.0,Mexican,Costa Mesa,California,2019,33.69475,-117.924965,https://guide.michelin.com/us/en/california/us-costa-mesa/restaurant/taco-maria
+Hana re,1,4.0,Japanese,Costa Mesa,California,2019,33.67759,-117.886566,https://guide.michelin.com/us/en/california/us-costa-mesa/restaurant/hana-re
+Addison,1,4.0,Contemporary,San Diego,California,2019,32.939903,-117.20013,https://guide.michelin.com/us/en/california/us-san-diego/restaurant/addison
+Parachute,1,2.0,Fusion,Chicago,Chicago,2019,41.94483,-87.70638,https://guide.michelin.com/us/en/illinois/chicago/restaurant/parachute
+Goosefoot,1,4.0,Contemporary,Chicago,Chicago,2019,41.96856,-87.69596,https://guide.michelin.com/us/en/illinois/chicago/restaurant/goosefoot
+Elizabeth,1,4.0,Contemporary,Chicago,Chicago,2019,41.969555,-87.688736,https://guide.michelin.com/us/en/illinois/chicago/restaurant/elizabeth
+EL Ideas,1,4.0,Contemporary,Chicago,Chicago,2019,41.863,-87.68686,https://guide.michelin.com/us/en/illinois/chicago/restaurant/el-ideas
+Band of Bohemia,1,3.0,Gastropub,Chicago,Chicago,2019,41.967308,-87.67477,https://guide.michelin.com/us/en/illinois/chicago/restaurant/band-of-bohemia
+Schwa,1,4.0,Contemporary,Chicago,Chicago,2019,41.90888,-87.66792,https://guide.michelin.com/us/en/illinois/chicago/restaurant/schwa
+Entente,1,3.0,Contemporary,Chicago,Chicago,2019,41.93721,-87.6652,https://guide.michelin.com/us/en/illinois/chicago/restaurant/entente
+Elske,1,4.0,Contemporary,Chicago,Chicago,2019,41.884426,-87.66071,https://guide.michelin.com/us/en/illinois/chicago/restaurant/elske
+Dusek's (Board & Beer),1,2.0,Gastropub,Chicago,Chicago,2019,41.857853,-87.65757,https://guide.michelin.com/us/en/illinois/chicago/restaurant/dusek-s-board-beer
+Roister,1,3.0,Contemporary,Chicago,Chicago,2019,41.886658,-87.65187,https://guide.michelin.com/us/en/illinois/chicago/restaurant/roister
+Boka,1,3.0,Contemporary,Chicago,Chicago,2019,41.91363,-87.64806,https://guide.michelin.com/us/en/illinois/chicago/restaurant/boka
+Blackbird,1,3.0,Contemporary,Chicago,Chicago,2019,41.88423,-87.64356,https://guide.michelin.com/us/en/illinois/chicago/restaurant/blackbird
+Sepia,1,3.0,American,Chicago,Chicago,2019,41.88394,-87.64247,https://guide.michelin.com/us/en/illinois/chicago/restaurant/sepia
+North Pond,1,3.0,Contemporary,Chicago,Chicago,2019,41.9296,-87.63762,https://guide.michelin.com/us/en/illinois/chicago/restaurant/north-pond
+Everest,1,4.0,French,Chicago,Chicago,2019,41.87597,-87.63212,https://guide.michelin.com/us/en/illinois/chicago/restaurant/everest
+Topolobampo,1,4.0,Mexican,Chicago,Chicago,2019,41.89047,-87.63085,https://guide.michelin.com/us/en/illinois/chicago/restaurant/topolobampo
+Spiaggia,1,4.0,Italian,Chicago,Chicago,2019,41.90062,-87.62457,https://guide.michelin.com/us/en/illinois/chicago/restaurant/spiaggia
+Monte,1,5.0,Creative,Rovinj,Croatia,2019,45.08279,13.631168,https://guide.michelin.com/hr/en/istria/rovinj/restaurant/monte
+Draga di Lovrana,1,5.0,Modern cuisine,Lovran,Croatia,2019,45.275867,14.251401,https://guide.michelin.com/hr/en/primorje-gorski-kotar/lovran/restaurant/draga-di-lovrana
+Noel,1,5.0,Modern cuisine,Zagreb,Croatia,2019,45.811054,15.988205,https://guide.michelin.com/hr/en/zagreb-region/zagreb/restaurant/noel
+Pelegrini,1,5.0,Modern cuisine,Šibenik,Croatia,2019,43.73603,15.888903,https://guide.michelin.com/hr/en/sibenik-knin/sibenik/restaurant/pelegrini
+360º,1,5.0,Modern cuisine,Dubrovnik,Croatia,2019,42.641563,18.111523,https://guide.michelin.com/hr/en/dubrovnik-neretva/dubrovnik/restaurant/360%C2%BA
+Field,1,5.0,Modern cuisine,Praha,Czech Republic,2019,50.0919,14.42193,https://guide.michelin.com/cz/en/prague/praha/restaurant/field
+La Degustation Bohême Bourgeoise,1,5.0,Modern cuisine,Praha,Czech Republic,2019,50.09115,14.42511,https://guide.michelin.com/cz/en/prague/praha/restaurant/la-degustation-boheme-bourgeoise
+Gastromé,1,3.0,Modern cuisine,Aarhus,Denmark,2019,56.15788,10.20937,https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/gastrome
+Domestic,1,3.0,Modern cuisine,Aarhus,Denmark,2019,56.15893,10.212132,https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/domestic
+Substans,1,3.0,Modern cuisine,Aarhus,Denmark,2019,56.15415,10.20372,https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/substans
+Frederikshøj,1,4.0,Creative,Aarhus,Denmark,2019,56.12497,10.208638,https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/frederikshoj
+Me‚Mu,1,3.0,Modern cuisine,Vejle,Denmark,2019,55.70901,9.53302,https://guide.michelin.com/dk/en/vejle/restaurant/me%E2%80%9Amu
+Ti Trin Ned,1,3.0,Modern cuisine,Fredericia,Denmark,2019,55.56659,9.752689,https://guide.michelin.com/dk/en/southern-denmark/fredericia/restaurant/ti-trin-ned
+Slotskøkkenet,1,4.0,Creative,Hørve,Denmark,2019,55.771236,11.390805,https://guide.michelin.com/dk/en/zealand/horve/restaurant/slotskokkenet
+Søllerød Kro,1,2.0,Modern cuisine,København,Denmark,2019,55.81325,12.49548,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/sollerod-kro
+Jordnær,1,3.0,Danish,København,Denmark,2019,55.748226,12.541014,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/jordnaer
+Relæ,1,2.0,Modern cuisine,København,Denmark,2019,55.693233,12.543222,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/relae
+Kiin Kiin,1,2.0,Thai,København,Denmark,2019,55.69188,12.55754,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/kiin-kiin
+formel B,1,2.0,Modern cuisine,København,Denmark,2019,55.67031,12.53798,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/formel-b
+Kokkeriet,1,3.0,Modern cuisine,København,Denmark,2019,55.68768,12.58492,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/kokkeriet
+Clou,1,4.0,Modern cuisine,København,Denmark,2019,55.68342,12.58497,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/clou
+Marchal,1,2.0,Modern cuisine,København,Denmark,2019,55.68034,12.58508,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/marchal
+Kong Hans Kælder,1,4.0,Classic French,København,Denmark,2019,55.6787,12.584003,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/kong-hans-kaelder
+Stud!o at The Standard,1,3.0,Creative,København,Denmark,2019,55.67799,12.59191,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/stud-o-at-the-standard
+108,1,3.0,Modern cuisine,København,Denmark,2019,55.67785,12.5980835,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/108
+Era Ora,1,2.0,Italian,København,Denmark,2019,55.673004,12.591292,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/era-ora
+Alouette,1,3.0,Modern cuisine,København,Denmark,2019,55.66265,12.57634,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/alouette
+Frederiksminde,1,3.0,Creative,Præstø,Denmark,2019,55.12417,12.04623,https://guide.michelin.com/dk/en/zealand/praesto/restaurant/frederiksminde
+Kadeau Bornholm,1,4.0,Creative,Pedersker,Denmark,2019,55.00457,14.969216,https://guide.michelin.com/dk/en/capital-region/pedersker/restaurant/kadeau-bornholm
+Ask,1,3.0,Modern cuisine,Helsingfors / Helsinki,Finland,2019,60.17236,24.95648,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/ask
+Grön,1,3.0,Finnish,Helsingfors / Helsinki,Finland,2019,60.16446,24.93308,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/gron
+Demo,1,3.0,Modern cuisine,Helsingfors / Helsinki,Finland,2019,60.164806,24.941635,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/demo
+Olo,1,3.0,Modern cuisine,Helsingfors / Helsinki,Finland,2019,60.16616,24.947704,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/olo
+Palace,1,3.0,Modern cuisine,Helsingfors / Helsinki,Finland,2019,60.16556,24.95256,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/palace
+Ora,1,3.0,Modern cuisine,Helsingfors / Helsinki,Finland,2019,60.157578,24.942947,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/ora
+Botrini's,1,5.0,Mediterranean,Athína,Greece,2019,38.02318,23.79377,https://guide.michelin.com/gr/en/attica/athina/restaurant/botrini-s
+Varoulko Seaside,1,5.0,Seafood,Athína,Greece,2019,37.937378,23.658577,https://guide.michelin.com/gr/en/attica/athina/restaurant/varoulko-seaside
+Hytra,1,5.0,Modern cuisine,Athína,Greece,2019,37.95818,23.71895,https://guide.michelin.com/gr/en/attica/athina/restaurant/hytra
+Costes Downtown,1,4.0,Modern cuisine,Budapest,Hungary,2019,47.50113,19.048595,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/costes-downtown
+Borkonyha Winekitchen,1,4.0,Modern cuisine,Budapest,Hungary,2019,47.49953,19.052391,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/borkonyha-winekitchen
+Stand,1,3.0,Modern cuisine,Budapest,Hungary,2019,47.500244,19.059624,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/stand
+Babel,1,5.0,Modern cuisine,Budapest,Hungary,2019,47.492603,19.05256,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/babel
+Costes,1,5.0,Modern cuisine,Budapest,Hungary,2019,47.48873,19.061779,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/costes
+FAGN,1,4.0,Modern cuisine,Trondheim,Norway,2019,63.43392,10.39628,https://guide.michelin.com/no/en/trondelag/trondheim/restaurant/fagn
+Credo,1,4.0,Creative,Trondheim,Norway,2019,63.43391,10.39631,https://guide.michelin.com/no/en/trondelag/trondheim/restaurant/credo
+RE-NAA,1,4.0,Creative,Stavanger,Norway,2019,58.972088,5.732877,https://guide.michelin.com/no/en/rogaland/stavanger/restaurant/re-naa
+Sabi Omakase,1,4.0,Sushi,Stavanger,Norway,2019,58.969936,5.7433133,https://guide.michelin.com/no/en/rogaland/stavanger/restaurant/sabi-omakase
+Galt,1,3.0,Modern cuisine,Oslo,Norway,2019,59.91661,10.71369,https://guide.michelin.com/no/en/oslo-region/oslo/restaurant/galt
+Kontrast,1,3.0,Scandinavian,Oslo,Norway,2019,59.92355,10.75106,https://guide.michelin.com/no/en/oslo-region/oslo/restaurant/kontrast
+Statholdergaarden,1,4.0,Classic cuisine,Oslo,Norway,2019,59.90937,10.74305,https://guide.michelin.com/no/en/oslo-region/oslo/restaurant/statholdergaarden
+Del Posto,1,4.0,Italian,New York,New York City,2019,40.74327,-74.0077,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/del-posto
+L'Appart,1,4.0,French,New York,New York City,2019,40.711903,-74.01544,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/l-appart
+Wallsé,1,4.0,Austrian,New York,New York City,2019,40.73538,-74.00814,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/wallse
+Jeju Noodle Bar,1,2.0,Korean,New York,New York City,2019,40.732952,-74.00744,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jeju-noodle-bar
+Sushi Nakazawa,1,4.0,Japanese,New York,New York City,2019,40.731716,-74.00451,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-nakazawa
+Kosaka,1,4.0,Japanese,New York,New York City,2019,40.738316,-74.00137,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kosaka
+Bâtard,1,4.0,Contemporary,New York,New York City,2019,40.719616,-74.00589,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/batard
+Hirohisa,1,3.0,Japanese,New York,New York City,2019,40.72452,-74.003006,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/hirohisa
+Blue Hill,1,4.0,American,New York,New York City,2019,40.7321,-73.9996,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/blue-hill
+ZZ's Clam Bar,1,4.0,Seafood,New York,New York City,2019,40.727646,-74.00046,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/zz-s-clam-bar
+Babbo,1,4.0,Italian,New York,New York City,2019,40.73233,-73.99916,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/babbo
+Carbone,1,4.0,Italian,New York,New York City,2019,40.727966,-74.00017,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/carbone
+Le Coucou,1,3.0,French,New York,New York City,2019,40.719162,-74.00001,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-coucou
+Aldea,1,4.0,Mediterranean,New York,New York City,2019,40.73885,-73.99366,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/aldea
+Cote,1,3.0,Korean,New York,New York City,2019,40.73778,-73.99375,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cote
+Gotham Bar and Grill,1,4.0,American,New York,New York City,2019,40.73417,-73.99379,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/gotham-bar-and-grill
+Nix,1,3.0,Vegetarian,New York,New York City,2019,40.733166,-73.993515,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/nix
+Junoon,1,4.0,Indian,New York,New York City,2019,40.74325,-73.99077,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/junoon
+NoMad,1,4.0,Contemporary,New York,New York City,2019,40.74497,-73.98883,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/nomad
+The Musket Room,1,3.0,Contemporary,New York,New York City,2019,40.723915,-73.99375,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-musket-room
+Uncle Boons,1,2.0,Thai,New York,New York City,2019,40.721203,-73.99441,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/uncle-boons
+Gramercy Tavern,1,4.0,Contemporary,New York,New York City,2019,40.73849,-73.98868,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/gramercy-tavern
+The Clocktower,1,3.0,Contemporary,New York,New York City,2019,40.7414,-73.987595,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-clocktower
+Ai Fiori,1,4.0,Italian,New York,New York City,2019,40.75013,-73.98357,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/ai-fiori
+Casa Mono,1,3.0,Spanish,New York,New York City,2019,40.73595,-73.98706,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/casa-mono
+Jewel Bako,1,3.0,Japanese,New York,New York City,2019,40.72713,-73.98928,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jewel-bako
+The River Café,1,4.0,Contemporary,New York,New York City,2019,40.703613,-73.994774,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-river-cafe
+Bar Uchū,1,4.0,Japanese,New York,New York City,2019,40.72191,-73.99003,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/bar-uchu
+Café China,1,2.0,Chinese,New York,New York City,2019,40.749973,-73.98228,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cafe-china
+Kanoyama,1,3.0,Japanese,New York,New York City,2019,40.73071,-73.98655,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kanoyama
+Contra,1,4.0,Contemporary,New York,New York City,2019,40.719917,-73.98922,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/contra
+Kyo Ya,1,3.0,Japanese,New York,New York City,2019,40.7266,-73.98526,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kyo-ya
+Kajitsu,1,3.0,Japanese,New York,New York City,2019,40.72776,-73.98428,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kajitsu
+Agern,1,4.0,Scandinavian,New York,New York City,2019,40.75234,-73.9775,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/agern
+Caviar Russe,1,4.0,Contemporary,New York,New York City,2019,40.760685,-73.97355,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/caviar-russe
+Tuome,1,2.0,Fusion,New York,New York City,2019,40.724194,-73.9828,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/tuome
+Tempura Matsui,1,4.0,Japanese,New York,New York City,2019,40.74839,-73.97474,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/tempura-matsui
+Sushi Yasuda,1,4.0,Japanese,New York,New York City,2019,40.75108,-73.97364,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-yasuda
+Sushi Amane,1,4.0,Japanese,New York,New York City,2019,40.75133,-73.971725,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-amane
+Café Boulud,1,4.0,French,New York,New York City,2019,40.77439,-73.96414,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cafe-boulud
+Satsuki,1,4.0,Japanese,New York,New York City,2019,40.801243,-73.95187,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/satsuki
+Sushi Inoue,1,4.0,Japanese,New York,New York City,2019,40.810448,-73.943726,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-inoue
+Meadowsweet,1,3.0,Mediterranean,New York,New York City,2019,40.710354,-73.96317,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/meadowsweet
+Casa Enríque,1,2.0,Mexican,New York,New York City,2019,40.743492,-73.95425,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/casa-enrique
+Peter Luger,1,4.0,Steakhouse,New York,New York City,2019,40.70986,-73.96263,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/peter-luger
+Oxomoco,1,3.0,Mexican,New York,New York City,2019,40.730057,-73.95538,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/oxomoco
+The Finch,1,3.0,American,New York,New York City,2019,40.68704,-73.96297,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-finch
+Faro,1,2.0,American,New York,New York City,2019,40.707584,-73.923035,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/faro
+Senses,1,5.0,Modern cuisine,Warszawa,Poland,2019,52.244583,21.005886,https://guide.michelin.com/pl/en/masovia/warszawa/restaurant/senses
+atelier Amaro,1,4.0,Modern cuisine,Warszawa,Poland,2019,52.21708,21.03768,https://guide.michelin.com/pl/en/masovia/warszawa/restaurant/atelier-amaro
+Olympe,1,5.0,French,Rio De Janeiro - 22470,Rio De Janeiro,2019,-22.96109,-43.20658,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/olympe
+Lasai,1,5.0,modern,Rio De Janeiro - 22271,Rio De Janeiro,2019,-22.95401,-43.19557,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/lasai
+Oteque,1,5.0,modern,Rio De Janeiro - 22271,Rio De Janeiro,2019,-22.95747,-43.194424,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/oteque
+Mee,1,5.0,Asian influences,Rio De Janeiro - 22021,Rio De Janeiro,2019,-22.96764,-43.17925,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/mee
+Cipriani,1,5.0,Italian,Rio De Janeiro - 22021,Rio De Janeiro,2019,-22.96755,-43.17901,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/cipriani
+Jun Sakamoto,1,5.0,Japanese,São Paulo - 05413,Sao Paulo,2019,-23.56318,-46.67737,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/jun-sakamoto
+Maní,1,5.0,creative,São Paulo - 05415,Sao Paulo,2019,-23.56621,-46.67974,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/mani
+Evvai,1,5.0,modern,São Paulo - 05415,Sao Paulo,2019,-23.567078,-46.679146,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/evvai
+Picchi,1,5.0,Italian,São Paulo - 01426,Sao Paulo,2019,-23.565063,-46.666767,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/picchi
+Kosushi,1,3.0,Japanese,São Paulo - 04538,Sao Paulo,2019,-23.58522,-46.6809,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/kosushi
+Ryo Gastronomia,1,5.0,Japanese,São Paulo - 04531,Sao Paulo,2019,-23.58132,-46.6767,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/ryo-gastronomia
+Tangará Jean-Georges,1,5.0,modern,São Paulo - 05706,Sao Paulo,2019,-23.634005,-46.72428,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/tangara-jean-georges
+Kinoshita,1,5.0,Japanese,São Paulo - 04509,Sao Paulo,2019,-23.59159,-46.67146,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/kinoshita
+Kan Suke,1,5.0,Japanese,São Paulo - 01401,Sao Paulo,2019,-23.5684,-46.64936,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/kan-suke
+Huto,1,5.0,Japanese,São Paulo - 04080,Sao Paulo,2019,-23.60882,-46.6598,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/huto
+Bhoga,1,3.0,Creative,Göteborg,Sweden,2019,57.70618,11.9624,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/bhoga
+Koka,1,3.0,Modern cuisine,Göteborg,Sweden,2019,57.698406,11.965365,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/koka
+28+,1,3.0,Modern cuisine,Göteborg,Sweden,2019,57.69809,11.97377,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/28
+SK Mat & Människor,1,3.0,Modern cuisine,Göteborg,Sweden,2019,57.69688,11.98338,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/sk-mat-manniskor
+Thörnströms Kök,1,3.0,Classic cuisine,Göteborg,Sweden,2019,57.69437,11.977609,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/thornstroms-kok
+Upper House,1,4.0,Creative,Göteborg,Sweden,2019,57.69745,11.99021,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/upper-house
+Agrikultur,1,4.0,Modern cuisine,Stockholm,Sweden,2019,59.34777,18.05863,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/agrikultur
+Sushi Sho,1,3.0,Japanese,Stockholm,Sweden,2019,59.341286,18.049892,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/sushi-sho
+Volt,1,3.0,Creative,Stockholm,Sweden,2019,59.33867,18.079683,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/volt
+Ekstedt,1,3.0,Meats and grills,Stockholm,Sweden,2019,59.33674,18.07521,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/ekstedt
+Operakällaren,1,4.0,Classic cuisine,Stockholm,Sweden,2019,59.329876,18.071363,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/operakallaren
+Mathias Dahlgren-Matbaren,1,2.0,Modern cuisine,Stockholm,Sweden,2019,59.32935,18.07543,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/mathias-dahlgren-matbaren
+Aloë,1,4.0,Creative,Stockholm,Sweden,2019,59.2842,17.985748,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/aloe
+PM & Vänner,1,3.0,Creative,Växjö,Sweden,2019,56.87892,14.80387,https://guide.michelin.com/se/en/kronoberg/vaxjo/restaurant/pm-vanner
+Bloom in the Park,1,2.0,Creative,Malmö,Sweden,2019,55.59064,12.99794,https://guide.michelin.com/se/en/skane/malmo/restaurant/bloom-in-the-park
+SAV,1,3.0,Creative,Malmö,Sweden,2019,55.53376,13.00537,https://guide.michelin.com/se/en/skane/malmo/restaurant/sav
+Golden Formosa,1,2.0,Taiwanese,Taipei,Taipei,2019,25.118216,121.53623,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/golden-formosa
+Danny's Steakhouse,1,2.0,Steakhouse,Taipei,Taipei,2019,25.082657,121.552765,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/danny-s-steakhouse
+L'Atelier de Joël Robuchon,1,3.0,French contemporary,Taipei,Taipei,2019,25.039188,121.56771,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/l-atelier-de-joel-robuchon550759
+Kitcho,1,4.0,Sushi,Taipei,Taipei,2019,25.04429,121.55076,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/kitcho
+Tien Hsiang Lo,1,2.0,Hang Zhou,Taipei,Taipei,2019,25.062696,121.529976,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/tien-hsiang-lo
+Ya Ge,1,2.0,Cantonese,Taipei,Taipei,2019,25.06625,121.52533,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/ya-ge
+Da-Wan,1,3.0,Barbecue,Taipei,Taipei,2019,25.043018,121.55019,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/da-wan
+Sushi Nomura,1,3.0,Sushi,Taipei,Taipei,2019,25.03618,121.55465,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/sushi-nomura
+logy,1,4.0,Asian contemporary,Taipei,Taipei,2019,25.03561,121.55323,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/logy
+Ming Fu,1,3.0,Taiwanese,Taipei,Taipei,2019,25.06171,121.52399,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/ming-fu
+Ken An Ho,1,4.0,Japanese,Taipei,Taipei,2019,25.034622,121.55281,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/ken-an-ho
+Sushi Ryu,1,4.0,Sushi,Taipei,Taipei,2019,25.055832,121.52724,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/sushi-ryu
+MUME,1,3.0,European contemporary,Taipei,Taipei,2019,25.036266,121.54809,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/mume
+Impromptu by Paul Lee,1,3.0,Innovative,Taipei,Taipei,2019,25.05429,121.524254,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/impromptu-by-paul-lee
+Longtail,1,2.0,Innovative,Taipei,Taipei,2019,25.023922,121.54841,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/longtail
+Mountain and Sea House,1,2.0,Taiwanese,Taipei,Taipei,2019,25.038046,121.531395,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/mountain-and-sea-house
+Da San Yuan,1,1.0,Cantonese,Taipei,Taipei,2019,25.042248,121.512215,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/da-san-yuan
+Tainan Tan Tsu Mien Seafood,1,2.0,Seafood,Taipei,Taipei,2019,25.03799,121.4984,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/tainan-tan-tsu-mien-seafood
+Blue Duck Tavern,1,3.0,American,"Washington, D.C.",Washington Dc,2019,38.905373,-77.05128,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/blue-duck-tavern
+Tail Up Goat,1,2.0,Contemporary,"Washington, D.C.",Washington Dc,2019,38.9235,-77.043274,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/tail-up-goat
+Komi,1,4.0,Mediterranean,"Washington, D.C.",Washington Dc,2019,38.910107,-77.03836,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/komi
+Sushi Taro,1,4.0,Japanese,"Washington, D.C.",Washington Dc,2019,38.909992,-77.03834,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/sushi-taro
+Plume,1,4.0,European,"Washington, D.C.",Washington Dc,2019,38.906,-77.03671,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/plume
+Siren by RW,1,3.0,Seafood,"Washington, D.C.",Washington Dc,2019,38.907776,-77.035446,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/siren-by-rw
+Bresca,1,2.0,Contemporary,"Washington, D.C.",Washington Dc,2019,38.91584,-77.0321,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/bresca
+The Dabney,1,2.0,American,"Washington, D.C.",Washington Dc,2019,38.906292,-77.024666,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/the-dabney
+Métier,1,4.0,Contemporary,"Washington, D.C.",Washington Dc,2019,38.903503,-77.0218,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/metier
+Kinship,1,3.0,Contemporary,"Washington, D.C.",Washington Dc,2019,38.903282,-77.0218,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/kinship
+Fiola,1,4.0,Italian,"Washington, D.C.",Washington Dc,2019,38.89416,-77.02032,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/fiola
+Masseria,1,3.0,Italian,"Washington, D.C.",Washington Dc,2019,38.909504,-76.99908,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/masseria
+Rose's Luxury,1,2.0,Contemporary,"Washington, D.C.",Washington Dc,2019,38.88064,-76.99515,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/rose-s-luxury
+SENNS.Restaurant,2,5.0,Creative,Salzburg,Austria,2019,47.83636,13.06389,https://guide.michelin.com/at/en/salzburg-region/salzburg/restaurant/senns-restaurant
+Ikarus,2,5.0,Creative,Salzburg,Austria,2019,47.79536,13.00695,https://guide.michelin.com/at/en/salzburg-region/salzburg/restaurant/ikarus
+Mraz & Sohn,2,5.0,Creative,Wien,Austria,2019,48.23129,16.37637,https://guide.michelin.com/at/en/vienna/wien/restaurant/mraz-sohn
+Konstantin Filippou,2,5.0,Modern cuisine,Wien,Austria,2019,48.21056,16.37996,https://guide.michelin.com/at/en/vienna/wien/restaurant/konstantin-filippou
+Silvio Nickol Gourmet Restaurant,2,5.0,Modern cuisine,Wien,Austria,2019,48.20558,16.37693,https://guide.michelin.com/at/en/vienna/wien/restaurant/silvio-nickol-gourmet-restaurant
+Steirereck im Stadtpark,2,5.0,Creative,Wien,Austria,2019,48.20229,16.3805,https://guide.michelin.com/at/en/vienna/wien/restaurant/steirereck-im-stadtpark
+Baumé,2,4.0,Contemporary,South San Francisco,California,2019,37.4285,-122.14272,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/baume
+Commis,2,4.0,Contemporary,San Francisco,California,2019,37.82476,-122.25505,https://guide.michelin.com/us/en/california/san-francisco/restaurant/commis
+Californios,2,4.0,Mexican,San Francisco,California,2019,37.75555,-122.417145,https://guide.michelin.com/us/en/california/san-francisco/restaurant/californios
+Lazy Bear,2,4.0,Contemporary,San Francisco,California,2019,37.760204,-122.41969,https://guide.michelin.com/us/en/california/san-francisco/restaurant/lazy-bear
+Saison,2,4.0,Californian,San Francisco,California,2019,37.76327,-122.41543,https://guide.michelin.com/us/en/california/san-francisco/restaurant/saison
+Campton Place,2,4.0,Indian,San Francisco,California,2019,37.78923,-122.40665,https://guide.michelin.com/us/en/california/san-francisco/restaurant/campton-place
+Coi,2,4.0,Contemporary,San Francisco,California,2019,37.79812,-122.40331,https://guide.michelin.com/us/en/california/san-francisco/restaurant/coi
+Acquerello,2,4.0,Italian,San Francisco,California,2019,37.79167,-122.42131,https://guide.michelin.com/us/en/california/san-francisco/restaurant/acquerello
+Urasawa,2,4.0,Japanese,Los Angeles,California,2019,34.067352,-118.40067,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/urasawa
+Somni,2,4.0,Contemporary,Los Angeles,California,2019,34.070095,-118.37649,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/somni
+Providence,2,4.0,Seafood,Los Angeles,California,2019,34.083523,-118.33019,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/providence
+n/naka,2,4.0,Contemporary,Los Angeles,California,2019,34.02526,-118.41206,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/n-naka
+Vespertine,2,4.0,Contemporary,Los Angeles,California,2019,34.024204,-118.38166,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/vespertine
+Smyth,2,4.0,Contemporary,Chicago,Chicago,2019,41.885,-87.660736,https://guide.michelin.com/us/en/illinois/chicago/restaurant/smyth
+Oriole,2,4.0,Contemporary,Chicago,Chicago,2019,41.886196,-87.64513,https://guide.michelin.com/us/en/illinois/chicago/restaurant/oriole
+Acadia,2,4.0,Contemporary,Chicago,Chicago,2019,41.85904,-87.62562,https://guide.michelin.com/us/en/illinois/chicago/restaurant/acadia
+KOKS,2,4.0,Creative,Leynar,Denmark,2019,62.13667,-7.022025,https://guide.michelin.com/dk/en/faroe-islands/leynar/restaurant/koks558780
+Henne Kirkeby Kro,2,3.0,Classic cuisine,Henne,Denmark,2019,55.72682,8.242021,https://guide.michelin.com/dk/en/southern-denmark/henne/restaurant/henne-kirkeby-kro
+a‚o‚c,2,4.0,Modern cuisine,København,Denmark,2019,55.68305,12.58921,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/a%E2%80%9Ao%E2%80%9Ac
+noma,2,4.0,Creative,København,Denmark,2019,55.68332,12.61006,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/noma
+Kadeau Copenhagen,2,4.0,Modern cuisine,København,Denmark,2019,55.67219,12.58848,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/kadeau-copenhagen
+Spondi,2,5.0,French,Athína,Greece,2019,37.96525,23.742971,https://guide.michelin.com/gr/en/attica/athina/restaurant/spondi
+Onyx,2,5.0,Modern cuisine,Budapest,Hungary,2019,47.49712,19.05067,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/onyx
+Jungsik,2,4.0,Korean,New York,New York City,2019,40.718685,-74.00911,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jungsik
+Atera,2,4.0,Contemporary,New York,New York City,2019,40.716797,-74.00565,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/atera
+Jean-Georges,2,4.0,Contemporary,New York,New York City,2019,40.76907,-73.98155,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jean-georges
+Marea,2,4.0,Seafood,New York,New York City,2019,40.76749,-73.98114,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/marea
+Gabriel Kreuther,2,4.0,Contemporary,New York,New York City,2019,40.75397,-73.982025,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/gabriel-kreuther
+Ichimura at Uchū,2,4.0,Japanese,New York,New York City,2019,40.721832,-73.99012,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/ichimura-at-uchu
+Sushi Ginza Onodera,2,4.0,Japanese,New York,New York City,2019,40.752396,-73.981575,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-ginza-onodera
+Ko,2,4.0,Contemporary,New York,New York City,2019,40.72909,-73.98448,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/ko
+The Modern,2,4.0,Contemporary,New York,New York City,2019,40.76106,-73.97628,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-modern
+Aquavit,2,4.0,Scandinavian,New York,New York City,2019,40.76078,-73.97214,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/aquavit
+Daniel,2,4.0,French,New York,New York City,2019,40.7666,-73.96745,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/daniel
+Aska,2,4.0,Scandinavian,New York,New York City,2019,40.71222,-73.96642,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/aska
+Blanca,2,4.0,Contemporary,New York,New York City,2019,40.70492,-73.93354,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/blanca
+Oro,2,5.0,creative,Rio De Janeiro - 22441,Rio De Janeiro,2019,-22.98601,-43.22471,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/oro
+Tuju,2,5.0,creative,São Paulo - 05416,Sao Paulo,2019,-23.55653,-46.69083,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/tuju
+D.O.M.,2,5.0,creative,São Paulo - 01411,Sao Paulo,2019,-23.56618,-46.66742,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/d-o-m
+Fäviken Magasinet,2,4.0,Creative,Järpen,Sweden,2019,63.43626,13.29337,https://guide.michelin.com/se/en/jamtland/jarpen/restaurant/faviken-magasinet
+Gastrologik,2,4.0,Creative,Stockholm,Sweden,2019,59.33365,18.0807,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/gastrologik
+Oaxen Krog,2,4.0,Creative,Stockholm,Sweden,2019,59.322342,18.101831,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/oaxen-krog
+Vollmers,2,4.0,Creative,Malmö,Sweden,2019,55.604427,12.995848,https://guide.michelin.com/se/en/skane/malmo/restaurant/vollmers
+Daniel Berlin,2,4.0,Creative,Skåne-Tranås,Sweden,2019,55.61246,13.99265,https://guide.michelin.com/se/en/skane/skane-tranas/restaurant/daniel-berlin
+RAW,2,3.0,Innovative,Taipei,Taipei,2019,25.082666,121.559525,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/raw
+Shoun RyuGin,2,4.0,Japanese contemporary,Taipei,Taipei,2019,25.08258,121.5595,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/shoun-ryugin
+Taïrroir,2,3.0,Innovative,Taipei,Taipei,2019,25.082718,121.559296,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/tairroir
+Sushi Amamoto,2,4.0,Sushi,Taipei,Taipei,2019,25.037945,121.55487,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/sushi-amamoto
+The Guest House,2,2.0,Sichuan-Huai Yang,Taipei,Taipei,2019,25.04486,121.52198,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/the-guest-house
+minibar,2,4.0,Contemporary,"Washington, D.C.",Washington Dc,2019,38.896294,-77.02386,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/minibar
+Pineapple and Pearls,2,4.0,Contemporary,"Washington, D.C.",Washington Dc,2019,38.880707,-76.99514,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/pineapple-and-pearls
+Amador,3,5.0,Creative,Wien,Austria,2019,48.25406,16.35915,https://guide.michelin.com/at/en/vienna/wien/restaurant/amador
+Manresa,3,4.0,Contemporary,South San Francisco,California,2019,37.22761,-121.98071,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/manresa
+Benu,3,4.0,Asian,San Francisco,California,2019,37.78521,-122.39876,https://guide.michelin.com/us/en/california/san-francisco/restaurant/benu
+Quince,3,4.0,Contemporary,San Francisco,California,2019,37.79762,-122.40337,https://guide.michelin.com/us/en/california/san-francisco/restaurant/quince
+Atelier Crenn,3,4.0,Contemporary,San Francisco,California,2019,37.79835,-122.43586,https://guide.michelin.com/us/en/california/san-francisco/restaurant/atelier-crenn
+The French Laundry,3,4.0,Contemporary,San Francisco,California,2019,38.40443,-122.36474,https://guide.michelin.com/us/en/california/san-francisco/restaurant/the-french-laundry
+The Restaurant at Meadowood,3,4.0,Contemporary,San Francisco,California,2019,38.52025,-122.46479,https://guide.michelin.com/us/en/california/san-francisco/restaurant/the-restaurant-at-meadowood
+SingleThread,3,4.0,Contemporary,San Francisco,California,2019,38.612164,-122.869705,https://guide.michelin.com/us/en/california/san-francisco/restaurant/singlethread
+Alinea,3,4.0,Contemporary,Chicago,Chicago,2019,41.91328,-87.64798,https://guide.michelin.com/us/en/illinois/chicago/restaurant/alinea
+Geranium,3,4.0,Creative,København,Denmark,2019,55.70393,12.57197,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/geranium
+Maaemo,3,4.0,Modern cuisine,Oslo,Norway,2019,59.910477,10.760408,https://guide.michelin.com/no/en/oslo-region/oslo/restaurant/maaemo
+Masa,3,4.0,Japanese,New York,New York City,2019,40.76855,-73.98335,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/masa
+Per Se,3,4.0,Contemporary,New York,New York City,2019,40.76828,-73.98292,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/per-se
+Le Bernardin,3,4.0,Seafood,New York,New York City,2019,40.76177,-73.98223,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-bernardin
+Eleven Madison Park,3,4.0,Contemporary,New York,New York City,2019,40.7417,-73.98712,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/eleven-madison-park
+Chef's Table at Brooklyn Fare,3,4.0,Contemporary,New York,New York City,2019,40.68872,-73.98581,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/chef-s-table-at-brooklyn-fare
+Frantzén,3,4.0,Modern cuisine,Stockholm,Sweden,2019,59.33418,18.05812,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/frantzen
+Le Palais,3,2.0,Cantonese,Taipei,Taipei,2019,25.049496,121.51674,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/le-palais
+The Inn at Little Washington,3,4.0,American,"Washington, D.C.",Washington Dc,2019,38.713623,-78.16208,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/the-inn-at-little-washington

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>米其林餐厅可视化</title>
+  <link rel="stylesheet" href="style.css" />
+  <!-- 引入 D3.js -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+  <h1>米其林餐厅数据可视化</h1>
+
+  <!-- 箱线图容器 -->
+  <div class="chart" id="boxplot"></div>
+  <!-- 小提琴图容器 -->
+  <div class="chart" id="violinplot"></div>
+  <!-- 散点图容器 -->
+  <div class="chart" id="scatterplot"></div>
+
+  <!-- Tooltip -->
+  <div id="tooltip" class="tooltip" style="opacity:0;"></div>
+
+  <!-- 可视化脚本 -->
+  <script src="analysis.js"></script>
+</body>
+</html>
